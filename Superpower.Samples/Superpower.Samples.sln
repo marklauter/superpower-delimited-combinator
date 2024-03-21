@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Superpower.Sample", "Superpower.Sample\Superpower.Sample.csproj", "{72F1E8B2-1EF8-49EE-B685-EB4E225F0832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F1E8B2-1EF8-49EE-B685-EB4E225F0832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F1E8B2-1EF8-49EE-B685-EB4E225F0832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F1E8B2-1EF8-49EE-B685-EB4E225F0832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F1E8B2-1EF8-49EE-B685-EB4E225F0832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC282FB1-9DBB-4BB8-A0F2-F12B947BBC7A}
+	EndGlobalSection
+EndGlobal
